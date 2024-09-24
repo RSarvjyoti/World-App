@@ -33,7 +33,7 @@ const Register = () => {
         name="username"
         value={credentials.username}
         onChange={handleChange}
-        placeholder="Enter Username"
+        placeholder="Enter Email"
         style={{ padding: '0.5rem', borderRadius: '4px', border: '1px solid #ccc', width: '100%' }}
       />
       <input
